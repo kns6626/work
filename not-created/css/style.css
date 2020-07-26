@@ -1,0 +1,15 @@
+@@charset "UTF-8";
+
+.html{
+  font-size: 62.5%;
+}
+
+body{
+  width: 980px;
+  height: 654px;
+  background-image: url("../images/bg.jpg");
+
+  /*background-color: red;*/
+  background-size:80% auto;
+  background-position: center;
+}
